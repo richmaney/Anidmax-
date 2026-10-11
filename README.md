@@ -1,0 +1,2 @@
+# Anidmax-
+Anime bot
